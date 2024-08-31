@@ -38,8 +38,8 @@ In a world where communication knows no borders, VoiceVista breaks down language
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/speech-recognition-translation-app.git
-   cd speech-recognition-translation-app
+   git clone https://github.com/OpokuKwame/VoiceVista.git
+   cd VoiceVista
    ```
 
 2. Create a virtual environment and activate it:
