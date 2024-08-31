@@ -1,0 +1,6 @@
+flask
+speech_recognition
+pydub
+googletrans
+fpdf
+python-docx
